@@ -5,3 +5,7 @@ numpy
 scikit-learn
 pickle-mixin
 python-dotenv
+geopandas
+shapely
+requests
+gunicorn
